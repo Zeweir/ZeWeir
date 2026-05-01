@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Zeweir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Zeweir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> -->
 
 # Hi, I'm Zeweir 👋
 
