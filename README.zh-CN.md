@@ -1,7 +1,7 @@
-<!-- README.en.md -->
+<!-- README.zh-CN.md -->
 <div align="right">
 
-English | [简体中文](./README.md)
+[English](./README.md) | 简体中文
 
 </div>
 
@@ -9,10 +9,10 @@ English | [简体中文](./README.md)
 
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Zeweir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> -->
 
-# Hi, I'm Zeweir 👋
+# 你好，我是 Zeweir 👋
 
 <p align="center">
-  <strong>Software Engineering Student · Full-Stack Learner · AI Agent Explorer</strong>
+  <strong>软件工程在校生 · 全栈开发学习者 · AI Agent 探索者</strong>
   &nbsp;&nbsp;
   <img align="center" src="https://komarev.com/ghpvc/?username=Zeweir&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
@@ -21,27 +21,27 @@ English | [简体中文](./README.md)
 
 ---
 
-## About Me
+## 关于我
 
 <p>
-Welcome to <strong>Zeweir's small coding studio</strong>.<br>
-I use this space to document my learning journey, organize project code, and build interesting little tools.<br><br>
-🎓 I’m currently a junior majoring in Software Engineering<br>
-💻 I enjoy coding and turning ideas into real, runnable projects<br>
-🌐 I’m learning full-stack development, including frontend, backend, databases, and deployment<br>
-🤖 I’m interested in AI Agents, LLM applications, RAG, and workflow automation<br>
-🛠️ I hope this gradually becomes my personal project showcase
+这里是 <strong>Zeweir 的小型开发工作室</strong>。<br>
+平时会在这里记录学习过程、整理项目代码，也会尝试做一些有意思的小工具。<br><br>
+🎓 目前是一名软件工程专业大三学生<br>
+💻 喜欢写代码，也喜欢把想法慢慢做成能跑起来的东西<br>
+🌐 正在学习全栈开发，关注前端、后端、数据库和项目部署<br>
+🤖 对 AI Agent、LLM 应用、RAG 和自动化工作流比较感兴趣<br>
+🛠️ 希望这里能慢慢变成一个属于自己的项目陈列室
 </p>
 
 ---
 
-## Tech Stack
+## 技术栈
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### Frontend
+### 前端
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,vite,tailwind" />
 
@@ -51,7 +51,7 @@ I use this space to document my learning journey, organize project code, and bui
 </td>
 <td width="33%" align="center">
 
-### Backend
+### 后端
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,fastapi" />
 
@@ -61,12 +61,12 @@ I use this space to document my learning journey, organize project code, and bui
 </td>
 <td width="33%" align="center">
 
-### Database
+### 数据库
 
 <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb" />
 
 `MySQL` · `Redis` · `MongoDB`  
-`SQL` · `Data Modeling` · `Caching Basics`
+`SQL` · `数据建模` · `缓存基础`
 
 </td>
 </tr>
@@ -74,17 +74,17 @@ I use this space to document my learning journey, organize project code, and bui
 <tr>
 <td width="33%" align="center">
 
-### DevOps & Deployment
+### 运维部署
 
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx" />
 
 `Linux` · `Docker` · `Nginx`  
-`Deployment` · `Environment Setup`
+`项目部署` · `环境配置`
 
 </td>
 <td width="33%" align="center">
 
-### Tools
+### 开发工具
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 
@@ -107,7 +107,7 @@ I use this space to document my learning journey, organize project code, and bui
 
 ---
 
-## Current Focus
+## 当前方向
 
 <table>
 <tr>
@@ -115,30 +115,30 @@ I use this space to document my learning journey, organize project code, and bui
 
 ### 🚀 Full Stack
 
-Frontend & Backend Development  
-API Design  
-Project Practice  
-Engineering Workflow
+前后端开发  
+接口设计  
+项目实战  
+工程化学习
 
 </td>
 <td width="33%" align="center">
 
 ### 🤖 AI Agent
 
-LLM Applications  
-RAG Knowledge Base  
-Agent Workflow  
-Automation Tools
+LLM 应用  
+RAG 知识库  
+Agent 工作流  
+自动化工具
 
 </td>
 <td width="33%" align="center">
 
 ### 🧩 Projects
 
-Build small projects  
-Create handy tools  
-Document learning  
-Grow portfolio gradually
+做点小项目  
+写点小工具  
+整理学习记录  
+慢慢积累作品
 
 </td>
 </tr>
@@ -146,22 +146,22 @@ Grow portfolio gradually
 
 ---
 
-## Goals
+## 小目标
 
 <p>
-✨ Write cleaner code &nbsp; | &nbsp;
-🌱 Build more complete projects &nbsp; | &nbsp;
-🤖 Try more AI Agent experiments &nbsp; | &nbsp;
-📌 Build my own coding corner step by step
+✨ 把代码写得更清楚一点 &nbsp; | &nbsp;
+🌱 把项目做得更完整一点 &nbsp; | &nbsp;
+🤖 多尝试一些 AI Agent 小实验 &nbsp; | &nbsp;
+📌 慢慢搭建自己的开发小角落
 </p>
 
 ---
 
-## On the Way
+## 正在路上
 
 <p>
-I’ll keep updating learning notes, project practices, and random interesting ideas here.<br>
-No rush to become great overnight — stay passionate and keep moving forward.
+这里会持续更新一些学习记录、项目实践和奇奇怪怪的小想法。<br>
+不急着变得很厉害，先保持热爱，慢慢往前走。
 </p>
 
 ---
