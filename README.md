@@ -1,8 +1,15 @@
+<!-- README.md -->
+<div align="right">
+
+[English](./README.en.md) | 简体中文
+
+</div>
+
 <div align="center">
 
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Zeweir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> -->
 
-# Hi, I'm Zeweir 👋
+# 你好，我是 Zeweir 👋
 
 <p align="center">
   <strong>软件工程在校生 · 全栈开发学习者 · AI Agent 探索者</strong>
