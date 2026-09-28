@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Zeweir</title>
+  <desc id="desc">全栈产品、AI 应用和浏览器工具</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111a3a"/>
+      <stop offset="55%" stop-color="#174b67"/>
+      <stop offset="100%" stop-color="#176d68"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#86f7d2"/>
+      <stop offset="100%" stop-color="#96c9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="24" fill="url(#background)"/>
+  <g fill="none" stroke="#d8f7ff" stroke-opacity=".16">
+    <path d="M760 280 1018 22M890 280 1150 20M1020 280 1200 100"/>
+    <circle cx="1018" cy="22" r="105"/>
+    <circle cx="1018" cy="22" r="158"/>
+  </g>
+  <circle cx="1060" cy="92" r="7" fill="#9bf2d7"/>
+  <circle cx="1150" cy="163" r="5" fill="#a9d6ff"/>
+  <text x="82" y="126" fill="#f4fbff" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="700">Zeweir</text>
+  <rect x="86" y="151" width="114" height="4" rx="2" fill="url(#accent)"/>
+  <text x="84" y="203" fill="#d8edf4" font-family="Segoe UI, Arial, sans-serif" font-size="19" letter-spacing="2">开发实用的软件产品</text>
+</svg>
