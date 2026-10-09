@@ -14,6 +14,8 @@
 
 我关注把 Web 界面、Python 服务、浏览器扩展和 AI 工作流整合成稳定、易用的软件。
 
+<p>🌐 <strong>Personal Space</strong>: <a href="https://66666609.xyz">https://66666609.xyz</a> &nbsp;|&nbsp; 🤖 <a href="https://66666609.xyz/llms.txt">LLM Context</a></p>
+
 <img src="https://skillicons.dev/icons?i=python,fastapi,vue,ts,docker,git" alt="Python、FastAPI、Vue、TypeScript、Docker 和 Git" />
 
 </div>
