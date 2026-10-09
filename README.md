@@ -14,8 +14,6 @@ English | [简体中文](./README.zh-CN.md)
 
 Building practical software from user-facing interfaces to integrations.
 
-<p>🌐 <strong>Personal Space</strong>: <a href="https://66666609.xyz">https://66666609.xyz</a> &nbsp;|&nbsp; 🤖 <a href="https://66666609.xyz/llms.txt">LLM Context</a></p>
-
 <img src="https://skillicons.dev/icons?i=python,fastapi,vue,ts,docker,git" alt="Python, FastAPI, Vue, TypeScript, Docker, and Git" />
 
 </div>
